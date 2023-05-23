@@ -24,11 +24,9 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-          Expertise in full-stack development, encompassing front-end, back-end, and database technologies, to build end-to-end applications. AWS Cloud Administration(AWS Cloud Practitioner). 
+          Expertise in full-stack development, encompassing front-end, back-end, and database technologies, to build end-to-end applications. AWS Cloud Administration(AWS Cloud Practitioner). Proficiency in machine learning algorithms, data preprocessing, feature engineering, model selection, evaluation, and deployment.
           </p>
-          <p className="mt-10 mb-7">
-          Proficiency in machine learning algorithms, data preprocessing, feature engineering, model selection, evaluation, and deployment.
-          </p>
+          
           
          
         

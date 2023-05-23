@@ -78,15 +78,7 @@ const MySkills = () => {
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">
-            
-            <ul>
-              <li>* Proficiency in Mobile App Development</li>  <br />
-              <li>* Machine Learning Expertise</li> <br />
-              <li>* Proficiency in both front-end and back-end technologies</li> <br />
-              
-            </ul>
-          </p>
+         
         </motion.div>
 
         {/* INNOVATIVE */}
@@ -110,15 +102,7 @@ const MySkills = () => {
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">
-            
-            <ul>
-              <li>*Microservices Architecture</li> <br />
-              <li>*Serverless Computing</li> <br />
-              <li>*Version Control System and DevOps</li>
-
-            </ul>
-          </p>
+         
         </motion.div>
         {/* IMAGINATIVE */}
         <motion.div
@@ -141,14 +125,7 @@ const MySkills = () => {
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">
-            
-            <ul>
-              <li>*Creative Problem Solving</li> <br />
-              <li>*User-Centric Design Thinking</li> <br />
-              <li>*Continuous Learning and Adaptability</li>  <br />
-            </ul>
-          </p>
+          
         </motion.div>
       </div>
     </section>
